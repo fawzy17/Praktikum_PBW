@@ -1,0 +1,80 @@
+.text-center{
+    text-align: center;
+}
+
+
+.bold100{
+    font-weight: 100;
+}
+.bold200{
+    font-weight: 200;
+}
+.bold300{
+    font-weight: 300;
+}
+.bold400{
+    font-weight: 400;
+}
+.bold500{
+    font-weight: 500;
+}
+.bold600{
+    font-weight: 600;
+}
+.bold700{
+    font-weight: 700;
+}
+.bold800{
+    font-weight: 800;
+}
+.bold900{
+    font-weight: 900;
+}
+
+
+.text40{
+    font-size: 40px;
+}
+.text30{
+    font-size: 30px;
+}
+.text20{
+    font-size: 20px;
+}
+
+.box-one{
+    width: 583px;
+    align-content: center;
+}
+
+.text-one{
+    line-height: 0.5;
+}
+
+.opacity1{
+    opacity: 0.4;
+}
+
+@font-face{
+    font-family: 'Poppins';
+    src: url('font/Poppins-Light.ttf');
+}
+@font-face{
+    font-family: 'Poppins-Bold';
+    src: url('font/Poppins-Bold.ttf');
+}
+ 
+*{
+    font-family: 'Poppins';
+    
+}
+h1{
+    font-family: 'Poppins-Bold';
+}
+h3{
+    font-family: 'Poppins-Bold';
+}
+
+.s{
+    font-family: 'Poppins-Bold';
+}
